@@ -4,7 +4,4 @@ Description: This project is a straightforward to-do list web application built 
 
 Technical Details: The application uses JavaScript to handle the logic of adding tasks to the list and displaying them on the screen. The HTML and CSS are basic, with a simple input field and list.
 
-Features:
-Add new tasks to the list
-
 Usage: To use the application, simply type a task in the input field and press the Enter key or click the "Add" button. The task will be added to the list and displayed on the screen.
